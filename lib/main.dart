@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.pink),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: '운지소년'),
+      home: const MyHomePage(title: '테스트'),
     );
   }
 }
